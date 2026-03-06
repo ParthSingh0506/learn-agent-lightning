@@ -151,6 +151,3 @@ train_dataset = [
 - [Agent Lightning Documentation](https://microsoft.github.io/agent-lightning)
 - [LangGraph Documentation](https://langchain-ai.github.io/langgraph/)
 
-## License
-
-This example is part of the Agent Lightning project and follows the same [MIT License](../../LICENSE).
